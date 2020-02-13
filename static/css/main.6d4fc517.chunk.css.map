@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Post.css","Comment.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,WACF,CCHA,MACE,oBACF,CAEA,UACE,eACF,CCNA,MACE,eACF","file":"main.6d4fc517.chunk.css","sourcesContent":[".App {\n  width: 1200px;\n  margin: auto;\n}\n",".post {\n  list-style-type: none;\n}\n\n.comments {\n  margin-top: 15px;\n}\n",".name {\n  font-weight: bold;\n}\n"]}
